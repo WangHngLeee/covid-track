@@ -3,8 +3,8 @@
 
 🔗 Deployed on github pages : https://leeemask.com/covid-track/
 
-✨ Feel free to check it out ! 
-✨And if you like it please give a star ！<br>
+✨ Feel free to check it out !<br> <br>
+✨ And if you like it please give a star ！
 
 ## Run on local machine
 
